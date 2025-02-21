@@ -1,8 +1,8 @@
 module.exports = {
   "token": "Put-Token-Here",
-  "prefix": "!",
-  "buyers": ["276705058370879489"],
-  "footerText": "Uhq World 🪄",
+  "prefix": "&",
+  "buyers": ["1254402109563076722"],
+  "footerText": "insomnie 🪄",
 
   /*/ API /*/
   "port": 3000,
